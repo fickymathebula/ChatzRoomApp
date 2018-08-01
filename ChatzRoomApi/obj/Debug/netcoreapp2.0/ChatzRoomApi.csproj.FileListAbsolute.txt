@@ -1,0 +1,9 @@
+C:\Users\fmathebu\Downloads\ChatzRoom\ChatzRoomApi\bin\Debug\netcoreapp2.0\ChatzRoomApi.deps.json
+C:\Users\fmathebu\Downloads\ChatzRoom\ChatzRoomApi\bin\Debug\netcoreapp2.0\ChatzRoomApi.dll
+C:\Users\fmathebu\Downloads\ChatzRoom\ChatzRoomApi\bin\Debug\netcoreapp2.0\ChatzRoomApi.pdb
+C:\Users\fmathebu\Downloads\ChatzRoom\ChatzRoomApi\obj\Debug\netcoreapp2.0\ChatzRoomApi.csprojResolveAssemblyReference.cache
+C:\Users\fmathebu\Downloads\ChatzRoom\ChatzRoomApi\obj\Debug\netcoreapp2.0\ChatzRoomApi.csproj.CoreCompileInputs.cache
+C:\Users\fmathebu\Downloads\ChatzRoom\ChatzRoomApi\obj\Debug\netcoreapp2.0\ChatzRoomApi.AssemblyInfoInputs.cache
+C:\Users\fmathebu\Downloads\ChatzRoom\ChatzRoomApi\obj\Debug\netcoreapp2.0\ChatzRoomApi.AssemblyInfo.cs
+C:\Users\fmathebu\Downloads\ChatzRoom\ChatzRoomApi\obj\Debug\netcoreapp2.0\ChatzRoomApi.dll
+C:\Users\fmathebu\Downloads\ChatzRoom\ChatzRoomApi\obj\Debug\netcoreapp2.0\ChatzRoomApi.pdb
